@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SetActivity"
+    android:background="#faebd7">
+<TextView
+    android:textAlignment="center"
+    android:id="@+id/SetTitle"
+    android:layout_width="match_parent"
+    android:text="設定"
+    android:textSize="45dp"
+     android:layout_height="55dp"/>
+
+        <TextView
+        android:id="@+id/beaconCount"
+        android:text="0 beacons:"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:textSize="25dp"/>
+
+    <ListView
+        android:id="@+id/beaconList"
+        android:layout_width="match_parent"
+        android:layout_height="198dp"
+        android:layout_weight="1">
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="0">
+        <Button
+            android:id="@+id/rangingButton"
+            android:onClick="rangingButtonTapped"
+            android:text="尚未測距"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1">
+        </Button>
+        <Button
+            android:id="@+id/monitoringButton"
+            android:text="尚未檢測"
+            android:onClick="monitoringButtonTapped"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1">
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>

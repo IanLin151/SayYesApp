@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndriodStudioProject/android-beacon-library-reference-kotlin-master/app/src/main/res/drawable/btn_1.xml" value="0.146875" />
+        <entry key="..\:/AndriodStudioProject/android-beacon-library-reference-kotlin-master/app/src/main/res/layout/activity_button1.xml" value="0.13072916666666667" />
+        <entry key="..\:/AndriodStudioProject/android-beacon-library-reference-kotlin-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/download/andoird/SayYes/app/src/main/res/layout/activity_button1.xml" value="0.152" />
+        <entry key="..\:/download/andoird/SayYes/app/src/main/res/layout/activity_main.xml" value="0.2504528985507246" />
+        <entry key="..\:/download/andoird/SayYes/app/src/main/res/layout/activity_set.xml" value="0.25364583333333335" />
+        <entry key="..\:/download/andoird/SayYes/app/src/main/res/layout/custom_layout.xml" value="0.25364583333333335" />
+        <entry key="..\:/download/andoird/SayYes/app/src/main/res/layout/guide_pager_adapter.xml" value="0.25364583333333335" />
+        <entry key="..\:/download/andoird/SayYes/app/src/main/res/layout/recyclerview_item.xml" value="0.1" />
+        <entry key="..\:/download/andoird/android-beacon-library-reference-kotlin-master/app/src/main/res/layout/custom_layout.xml" value="0.13072916666666667" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/drawable/btn_1.xml" value="0.14583333333333334" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/drawable/btn_2.xml" value="0.14583333333333334" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/drawable/btn_4.xml" value="0.26979166666666665" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.14583333333333334" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/drawable/icon_folder.xml" value="0.26979166666666665" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/activity_button1.xml" value="0.264" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/activity_button2.xml" value="0.15489130434782608" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/activity_button3.xml" value="0.1296875" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/activity_button4.xml" value="0.1296875" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/activity_food.xml" value="0.1296875" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/activity_set.xml" value="0.264" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/activity_welcome.xml" value="0.12512664640324214" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/custom_layout.xml" value="0.25364583333333335" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/guide_pager_adapter.xml" value="0.1" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/layout/recyclerview_item.xml" value="0.264" />
+        <entry key="..\:/download/andoird/new/SayYes/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

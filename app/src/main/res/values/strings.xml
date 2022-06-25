@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SayYes</string>
+    <string name="SayYes">title</string>
+    <string name="bt_1">小吃</string>
+    <string name="bt_2">飲品</string>
+    <string name="bt_3">吃到飽</string>
+    <string name="bt_4">甜食</string>
+    <string name="food">美食</string>
+
+    <string-array name="filter">
+        <item>評價最高</item>
+        <item>距離最近</item>
+        <item>評價最低</item>
+        <item>距離最遠</item>
+    </string-array>
+</resources>
